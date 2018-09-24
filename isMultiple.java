@@ -1,5 +1,3 @@
-package test123;
-
 public class isMultiple {
 	public static boolean isMultiple(long n, long m) {
 		if (n % m == 0) 
